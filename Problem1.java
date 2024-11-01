@@ -1,3 +1,6 @@
+//Time COmplexity: O(log(n))
+//Space Complexity : 0(1)
+
 class Problem1 {
     public static int missingNumber(int[] nums) {
         int n = nums.length;

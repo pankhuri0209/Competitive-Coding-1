@@ -1,3 +1,11 @@
+//Time Complexity:
+//insert: O(log n)
+//minHeapify: O(log n)
+//remove: O(log n)
+//print: O(n)
+//Space Complexity: O(n)
+
+
 
 
 class Problem2 {
